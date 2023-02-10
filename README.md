@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Evelyn1409/Evelyn1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... en el area de sistemas en gasolinera chevron 
+- 🌱 I’m currently learning ...Temas de la carrera de sistemas 
+- 👯 I’m looking to collaborate on ... en departamento de desarrollo, buscando mejoras continuas 
+- 🤔 I’m looking for help with ... Mejorar y superar mi nivel de programacion
+- 💬 Ask me about ... Maneras de salir adelante por medio de iot
+- 📫 How to reach me: ... metas a mediano largo y corto plazo
+- 😄 Pronouns: ...Eve
+- ⚡ Fun fact: ... Ver series interesantes 
+--> 
