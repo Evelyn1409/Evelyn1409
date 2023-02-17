@@ -1,6 +1,6 @@
 ### Evelyn Cardona 👋
 <div id="header" align="center">
-  <ing src="https://giphy.com/clips/bestfriends-cat-cats-kitty-IsDjNQPc4weWPEwhWm" width="200" />
+  <img src="https://giphy.com/clips/bestfriends-cat-cats-kitty-IsDjNQPc4weWPEwhWm" width="200" />
 </div>
 
 
