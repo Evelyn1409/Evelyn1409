@@ -9,7 +9,7 @@
 - 🌱 Actualmente me estoy enfocando en el crecimiento personal 
 - 👯 Busco colaborar en el departamento de desarrollo, buscando mejoras continuas para el servicio brindado 
 
-### Horario 
+ 
 ---
 # HORARIO
 | HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
