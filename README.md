@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Ver series interesantes 
 --> 
 Horario 
+---
 ![image](https://user-images.githubusercontent.com/124218442/219788342-bfe54e8d-93a3-4bce-8842-2869eb8d9df4.png)
 
