@@ -1,6 +1,7 @@
 ### Evelyn Cardona 👋
+
 <div id="header" align="center">
-  <img src="https://giphy.com/clips/bestfriends-cat-cats-kitty-IsDjNQPc4weWPEwhWm" width="200" />
+  <img src="https://media.giphy.com/media/12bjQ7uASAaCKk/giphy.gif" width="200" />
 </div>
 
 
@@ -10,6 +11,14 @@
 
 ### Horario 
 ---
-![image](https://user-images.githubusercontent.com/124218442/219788342-bfe54e8d-93a3-4bce-8842-2869eb8d9df4.png)
+# HORARIO
+| HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
+|------|-------|--------|-----------|--------|---------|
+| 10:00  | M.Num   | M.Num    | M.Num       |M.Num    |         |
+| 2:00  | F.Inv    | F.Inv     | F.Inv        | F.Inv     |         |
+| 3:00 | FIS   | FIS    | FIS       | FIS    |         |
+| 4:00 | Interfaz   | Interfaz    | Interfaz       | Interfaz    |         |
+| 5:00 | Graficacion   | Graficacion    | Graficacion       | Graficacion    |         |
 
-![3 18 2 3](https://user-images.githubusercontent.com/124218442/219795269-77380797-2344-4cea-9dc5-8c2d84a93b4a.PNG)
+
+
