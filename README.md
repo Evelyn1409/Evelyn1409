@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... metas a mediano largo y corto plazo
 - 😄 Pronouns: ...Eve
 - ⚡ Fun fact: ... Ver series interesantes 
-![image](https://user-images.githubusercontent.com/124218442/219788248-7c2c7f57-ff49-4bc3-bce8-8a03652697a1.png)
-
 --> 
+Horario 
+![image](https://user-images.githubusercontent.com/124218442/219788342-bfe54e8d-93a3-4bce-8842-2869eb8d9df4.png)
+
